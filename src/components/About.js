@@ -29,7 +29,7 @@ function About() {
           </div>
           <div className="flex-grow h-[275px]">
             <h2 className="text-gray-900 text-lg title-font font-medium mb-3">Key Features</h2>
-            <p className="text-fuchsia-500 leading-loose text-base font-bold">-Easy to navigate  <br/>-Time saving <br/>-Authentic <br/>-Secure <br/>-Verified <br/>-Volunteer Work <br/>-Easy Accessible</p>
+            <p className="text-purple-900 leading-loose text-base font-medium">-Easy to navigate  <br/>-Time saving <br/>-Authentic <br/>-Secure <br/>-Verified <br/>-Volunteer Work <br/>-Easy Accessible</p>
           </div>
         </div>
       </div>
